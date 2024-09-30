@@ -4,4 +4,4 @@ Hello! My name is Diego Rivas Lazala
 - Trying to explore the world of CS one repo at a time!
 - You can reach me at drlazala@gmail.com
 
-- Currently working on: Discord Music Bot!
+- Currently working on: getting an A+ in my closes B) 
